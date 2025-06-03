@@ -1,19 +1,19 @@
 # ChatGPT 中文版：国内免费直连指南（支持GPT-4，无需翻墙）【6月最新更新】
 
-> **更新时间：2025/06/01**                  
+> **更新时间：2025/06/05**                  
 
 **全面体验 ChatGPT 中文版，无需翻墙，即可体验 GPT-4、4o 画图 及多功能服务！**    
 
 本指南为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手，不论是个人使用还是专业需求。
 
-**ChatGPT 中文版**入口：**[https://chat.yixiaai.com/](https://chat.xsimple.top/)**   
-**ChatGPT 镜像网站**直达：**[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**
+**ChatGPT 中文版**入口：**[https://chat.yixiaai.com/](https://xsimplechat.com/)**   
+**ChatGPT 镜像网站**直达：**[https://chat.lanjingai.org](https://chat.lanjing.pro)**
 
 ---
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.xsimple.top) 是 OpenAI 开发的 ChatGPT 模型的中文使用版本，为中文用户提供流畅而精准的对话体验。专门针对国内用户的使用习惯进行了优化：
+[**ChatGPT 中文版**](https://xsimplechat.com) 是 OpenAI 开发的 ChatGPT 模型的中文使用版本，为中文用户提供流畅而精准的对话体验。专门针对国内用户的使用习惯进行了优化：
 
 - **中文对话**：增强的中文对话能力，适合学习、办公和日常使用。
 - **国内直连**：无需翻墙即可通过国内镜像访问。
@@ -30,7 +30,7 @@
 | **一下 AI**   | [chat.yixiaai.com](https://chat.yixiaai.com)    | GPT-4,GPT-3.5   | 有        | 扫码登录   | 高     | 中文支持、绘图功能 |
 | **蓝鲸 AI**   | [chat.lanjing.pro](https://chat.lanjing.pro/)   | GPT-4,GPT-o1    | 有        | 邮箱注册   | 高     | 实时语音、视频对话 |
 | **AI智慧岛**  | [chat.lify.vip](https://chat.lify.vip)          | GPT-4,GPT-3.5   | 有        | 扫码登录   | 高     | 稳定快速、功能丰富 |
-| **GPT中文版** | [chat.chatgpt-chinese.com](https://chat.lanjing.pro)  | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 中     | 适合初学者 |
+| **GPT中文版** | [chat.chatgpt-chinese.com](https://chat.lanjingai.org)  | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 中     | 适合初学者 |
 
 ---
 
@@ -51,7 +51,7 @@
 ## 国内如何使用 ChatGPT 中文版
 
 ### **通过镜像网站快速体验**
-1. **选择镜像站点**：如 [chat.yixiaai.com](https://chat.yixiaai.com)。
+1. **选择镜像站点**：如 [chat.yixiaai.com](https://chat.lanjing.pro)。
 2. **注册或直接使用**：
    - 邮箱注册：输入邮箱和密码完成注册。
    - 免注册：开始聊天，输入问题即可。
